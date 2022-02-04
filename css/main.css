@@ -512,7 +512,7 @@ h4 a {
   box-sizing: border-box;
   float: left;
   display: block;
-  width: 200px;
+  width: 100%;
   padding-top: 16px;
   padding-bottom: 12px;
   border-radius: 6px;
